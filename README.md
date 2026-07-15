@@ -1,5 +1,6 @@
 # Langchain
 
+- [Introduction](./doc/introduction/index.md)
 - [Document Loader](./doc/doc_loaders/index.md)
 - [Text Splitters](./doc/text_splitters/index.md)
 - [Embedding Models](./doc/embedding_models/embedding_models.md)
