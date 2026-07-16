@@ -55,3 +55,17 @@ Read more about [Runnables](./runnables.md)
 ## Message Types
 
 Read more about [Message Types](./message-types.md)
+
+<br/>
+
+## Model's Configurations
+
+🟩 `model:` the name of the provider's model to use `e.g gpt-4`
+🟧 `api_key`: the API key to authenticate with the provider's API
+⬜ `base_url`: the exact API endpoint of the provider to send your requests to
+🟦 `temperature`: controls how focused or creative the response from the model is
+🟨 `timeout`: the maximum time (in seconds) to wait before cancelling a pending request
+⬜ `max_retries`: the name of the provider's model to use `e.g gpt-4`
+🟩 `max_tokens`: the maximum amount of tokens to be used in the response
+⬜ `stop`: specify a token/character which when encountered will stop the response ger
+🟨 `rate_limiter`: Use the rate limiter class to define rate-limiting rules
