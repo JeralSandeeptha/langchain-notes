@@ -8,6 +8,7 @@
 - [Retreivers](./doc/retreivers/index.md)
 - [Prompt Templates](./doc/prompts/index.md)
 - [Chat History](./doc/history/index.md)
+- [Caching](./doc/cache/index.md)
 - [Messages](./doc/messages/index.md)
 - [LLMs](./doc/llms/index.md)
 - [Chat Models](./doc/models/index.md)
