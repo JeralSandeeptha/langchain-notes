@@ -52,3 +52,11 @@ Using LCEL
 <br/>
 
 ### Parrarel Runnables
+
+Using runnables sequence
+![Image](../../images/runnables-08.png)
+<br/>
+
+Using pipes
+![Image](../../images/runnables-09.png)
+<br/>
