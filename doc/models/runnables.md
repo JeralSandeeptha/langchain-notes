@@ -4,7 +4,19 @@
 
 ![Image](../../images/runnables-01.png)
 
-Every component of langchain is an `Runnable`
+<br/>
+
+![Image](../../images/runnables-02.png)
+
+<br/>
+
+![Image](../../images/runnables-03.png)
+
+---
+
+## Runnalbe Types
+
+![Image](../../images/runnables-04.png)
 
 ---
 
