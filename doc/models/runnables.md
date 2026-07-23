@@ -4,6 +4,8 @@
 
 ![Image](../../images/runnables-01.png)
 
+Every component of langchain is an `Runnable`
+
 ---
 
 ## Core Methods of the Runnable Interface
