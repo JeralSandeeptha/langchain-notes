@@ -2,6 +2,8 @@
 
 `Runnable is a standardized unit of work that defines how a component receives input, processes data, and returns an output`
 
+![Image](../../images/runnables-01.png)
+
 ---
 
 ## Core Methods of the Runnable Interface
