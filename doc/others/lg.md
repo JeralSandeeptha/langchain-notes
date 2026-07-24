@@ -4,18 +4,9 @@
 
 <br/>
 
-## Core Components
+## Agents
 
-Applications are built using three primary elements:
-
-`State`:
-A shared data structure that acts as the application’s persistent memory. It holds context and variables that are updated as the workflow progresses.
-
-`Nodes`:
-Individual functions or AI agents that perform specific tasks (e.g., executing a web search, querying a database, or running an LLM prompt).
-
-`Edges`:
-The transition paths that dictate which node runs next, including conditional routing (like if/else statements)
+[Read More about Agents](../agents/index.md)
 
 <br/>
 

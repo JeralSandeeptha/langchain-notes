@@ -16,6 +16,15 @@ In short, you observe a situation, process it through thought, and execute an ac
 
 ![Image](../../images/agents-01.png)
 
+Agents how working on the LangGraph
+![Image](../../images/agents-02.png)
+
+<br/>
+
+## LangGraph API
+
+[Read More](../others/lang-graph-api.md)
+
 ---
 
 ## Create an Agent
