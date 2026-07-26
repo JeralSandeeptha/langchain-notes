@@ -31,5 +31,16 @@ There are some design patterns to:
 
 ## Workflows
 
+These are the main commin workflow types that we have in the langchain
+
 ![Image](../../images/workflow-01.png)
 ![Image](../../images/workflow-02.png)
+
+These are,
+
+- [Augmented LLM](../workflows/augmented_llm.md)
+- [Prompt Chianning](../workflows/prompt_chaining.md)
+- [Routing](../workflows/routing.md)
+- [Parallelization](../workflows/parallelization.md)
+- [Ochestrator Worker](../workflows/ochestrator.md)
+- [Evaluator-Optimizer](../workflows/evaluator.md)
