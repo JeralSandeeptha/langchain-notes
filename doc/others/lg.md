@@ -16,7 +16,24 @@ While LangChain is great for simple, sequential prompt chains, it struggles with
 
 <br/>
 
-## Design Patterns
+## When to use Multi Agent System
+
+- Have more tools - When tool overload problem
+- Context window limits - When have long conversations
+- Loose Context - When we loose quality of the context
+- Sequencial contstraints - When we need have a sequence
+- Parallelization needs - When we have pararel tasks
+- Organizational boundaries - When system looks like organizational structure
+
+<br/>
+
+## Anotomy of an Agentic System
+
+[Read More](../others/anatomy_of_agentic_workflows.md)
+
+<br/>
+
+## Agentic Design Patterns
 
 There are some design patterns to:
 
