@@ -27,6 +27,26 @@ While LangChain is great for simple, sequential prompt chains, it struggles with
 
 <br/>
 
+## Benefits
+
+- Better accuracy agents
+- Better tool selection
+- Maintainability
+- Parallel Execution
+- Scalability / Expansion / Deexpansion
+- Enforced Compliance between agents
+
+<br/>
+
+## Tradeoffs / Caveats
+
+- Increase latency
+- Higher cost
+- More complexcity
+- Conversation coherence
+
+<br/>
+
 ## Anotomy of an Agentic System
 
 [Read More](../others/anatomy_of_agentic_workflows.md)
